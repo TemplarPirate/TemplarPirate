@@ -21,7 +21,8 @@ I once programmed a 'Magic 8 Ball' game on a **TI-99/4A** in middle school—it 
 ---
 
 ### Support My Projects
-If you enjoy my work or find my resources helpful, feel free to [**Buy Me a Coffee**](buymeacoffee.com/Scofflaw)! ☕ Your support helps fuel my next DIY project or the latest upgrade to my micro-RV.
+If you enjoy my work or find my resources helpful, feel free to [##buy me a coffee##](https://buymeacoffee.com/scofflaw)! ☕ Your support helps fuel my next DIY project or the latest upgrade to my micro-RV.
+
 
 ---
 
